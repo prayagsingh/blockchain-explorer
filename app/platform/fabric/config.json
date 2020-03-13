@@ -3,7 +3,7 @@
 		"multiorgs-network": {
 			"name": "multiorgs-network",
 			"profile": "./connection-profile/multiorgs-network.json",
-			"enableAuthentication": false
+			"enableAuthentication": true
 		}
 	},
 	"license": "Apache-2.0"
